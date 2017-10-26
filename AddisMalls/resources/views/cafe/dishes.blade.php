@@ -1,0 +1,1 @@
+@extends('cafe.layouts.support_app')
